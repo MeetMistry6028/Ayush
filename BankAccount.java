@@ -49,7 +49,7 @@ public class BankAccount
 
     public static void main(String[] args) {
         
-        BankAccount acc1 = new BankAccount("Meet Mistry", "Savings");
+        BankAccount acc1 = new BankAccount("Ayush Makwana", "Savings");
         acc1.createAcc();
 
         acc1.deposit(10000);
